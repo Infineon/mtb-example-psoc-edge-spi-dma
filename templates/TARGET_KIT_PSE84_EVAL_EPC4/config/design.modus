@@ -2564,7 +2564,7 @@
                         <Param id="inFlash" value="true"/>
                     </Parameters>
                 </Personality>
-                <Personality template="spi" version="3.0" instance="2Z1Skvz1LvA">
+                <Personality template="spi" version="4.0" instance="2Z1Skvz1LvA">
                     <Block location="scb[10]" locked="true">
                         <Aliases>
                             <Alias value="CYBSP_SPI_CONTROLLER"/>
